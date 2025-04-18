@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@solana/web3.js": "^1.98.0",
+    "solana-bankrun": "^0.4.0",
+    "typescript": "^5.8.3"
+  },
+  "devDependencies": {
+    "@types/node": "^22.14.1"
+  }
+}
